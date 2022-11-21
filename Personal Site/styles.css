@@ -1,0 +1,39 @@
+/* element selector */
+h1{
+    color: green;
+}
+
+
+/*
+    First we learn about the selectors
+    element selector
+    id selector
+    class selector
+    universal selector
+    grouping selector
+
+    
+*/
+
+
+#heading3  {
+    color: red;
+}
+
+p.Intro{
+    color : violet;
+}
+
+.Intro{
+    background-color: aqua;
+    opacity : 1.0;
+}
+
+h1,h3{
+    color:blueviolet;
+}
+
+a:hover{
+    color : red;
+    text-decoration: none;
+}
